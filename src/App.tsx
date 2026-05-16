@@ -209,9 +209,19 @@ const DetailView = ({ listing, onClose, onBook }: { listing: Listing; onClose: (
         animate={{ y: 0, opacity: 1 }}
         className="bg-white w-full max-w-6xl max-h-full overflow-y-auto rounded-[32px] shadow-2xl relative"
       >
+        {/* Back to Dashboard button — top left */}
         <button 
           onClick={onClose}
-          className="absolute top-6 right-6 z-10 bg-white/20 hover:bg-white/40 text-white backdrop-blur-md p-2 rounded-full transition-all"
+          className="absolute top-6 left-6 z-10 flex items-center gap-2 bg-white/90 hover:bg-white text-ink backdrop-blur-md px-4 py-2 rounded-full shadow-md transition-all border border-clay/20 group"
+        >
+          <ChevronLeft className="w-4 h-4 text-clay group-hover:-translate-x-0.5 transition-transform" />
+          <span className="text-[10px] font-bold uppercase tracking-widest">Back to Dashboard</span>
+        </button>
+
+        {/* Close (X) button — top right */}
+        <button 
+          onClick={onClose}
+          className="absolute top-6 right-6 z-10 bg-ink/30 hover:bg-ink/50 text-white backdrop-blur-md p-2 rounded-full transition-all"
         >
           <X className="w-6 h-6" />
         </button>
@@ -274,6 +284,17 @@ const DetailView = ({ listing, onClose, onBook }: { listing: Listing; onClose: (
                   ))}
                 </div>
               </section>
+
+              {/* Bottom back button for long scroll */}
+              <div className="pt-4">
+                <button
+                  onClick={onClose}
+                  className="flex items-center gap-2 text-clay hover:text-rust transition-colors group"
+                >
+                  <ChevronLeft className="w-4 h-4 group-hover:-translate-x-0.5 transition-transform" />
+                  <span className="text-[11px] font-bold uppercase tracking-widest">Back to Dashboard</span>
+                </button>
+              </div>
             </div>
           </div>
 
