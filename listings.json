@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "The Weaver's Sanctuary",
+    "location": "High Atlas Mountains",
+    "region": "High Atlas",
+    "activity": "Weaving Workshop",
+    "price": 145,
+    "rating": 4.9,
+    "badge": "Verified Local Host",
+    "tag": "Handcrafted Heritage",
+    "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDiucQpNuezLE8p_fUDXjTm9iA7IMj6HF4HCduwcX2uzPjmyLQGJAX8LVTdOkG9AlgXJGheJjRxAGM1QQ_aRQLGuFaOwO_Z5jZ5agkRiu2u1hU52MCBJ-8oM7TmkmojFoqf88V1tICSIrZQyUcTOFMbU4rDuSzqoGUOBapoIY52YZHmKmj6aNHzFIFXLaMdOFu8z8TYaMW8KyqZyA0z8Tnd0qzfDzq66bxBgitQaul_LfSdN6tDa6-OAjVNNlqXIeRbhSoepsCvxvTB"
+  },
+  {
+    "id": 2,
+    "title": "Kasbah of Spices",
+    "location": "Ourika Valley",
+    "region": "Ourika Valley",
+    "activity": "Berbere Cooking",
+    "price": 89,
+    "rating": 4.7,
+    "badge": "Culinary Arts",
+    "tag": "Ancient Recipes",
+    "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCRSiCA_sNZi0qumlwYWXmxh-uFcyZvsufp6qaJq9J132hW2c56wtACxMM4Kbwd0mttTOBw15foFNCZGxjuR703H97uKlWfERCp57NTF8LTDNttsINEuzFhUotISEGSaC-WAijAGnVS6vWbppip2PvE3nWgNhHD3BTC4FKOwlCAAYCBZTUemCEZSjz5rBIV2mQE1EAfg6GzjrC9hPGkpgp8hWJL5i-s2sIOXzYOGbw0jLXWsWnwEEraUE60I_DwHamtF5oK4f5iQZm4"
+  },
+  {
+    "id": 4,
+    "title": "Cedar Crest Lodge",
+    "location": "Middle Atlas",
+    "region": "High Atlas",
+    "activity": "Trekking",
+    "price": 115,
+    "rating": 4.8,
+    "badge": "Nature Preserve",
+    "tag": "Trekking Base",
+    "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBm39oJRdVhMkYL53N440e3kZu4b3RSz8z9Hj6byemiP46wN2e5OM1_YF48B4OAHrWWUtWZI88xs4_-1rSQFUZ6sJz-_nbShUARU9z-FfhJ-ULNX4H07gMnRiuyi2jwVL0CAgiEX7wH5mW4nI0AkW9T9oHOjEA2Kj0MT8x0JEQM34SM502iu1yv3wg3uVNegILcDvMZJw0_EqsXn1E2KsmVMWDSwYoWMr-GpUf_042PuwEoyPJtTx05jBX2sFR_4yViTs3t73avEMTQ"
+  },
+  {
+    "id": 5,
+    "title": "Royal Ouzoud Villa",
+    "location": "Ouzoud Waterfalls",
+    "region": "Ourika Valley",
+    "activity": "Berbere Cooking",
+    "price": 210,
+    "rating": 5,
+    "badge": "Luxury Heritage",
+    "tag": "Private Experience",
+    "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCsU8UqQfP6A7L-5Yf0fzNNLF9hAL2ArsdYoywtUupsOTsILdlAZP4tc6yUKjke3uaWbf5pGzLyILu2TrFcjO_8QbhmRd0PV9kD9mtzMHT6TujdEAeCOTv-HWLJAw7kCBtixdRfbJZ-bevqSYtMFTcWURmWGDi3VwJ7fuJIRAUOjxJeL4F2cNfn86anG9dB0soTYmfbeUSISx4KbRbChzS_kteETisLaulBLb_ntS9TIX3u2wck0WAfHmxJeahIP1JMhcFNzc3bG1"
+  },
+  {
+    "id": 6,
+    "title": "Dune Spirit Camp",
+    "location": "Merzouga",
+    "region": "Sahara Edge",
+    "activity": "Trekking",
+    "price": 175,
+    "rating": 4.9,
+    "badge": "Starlit Nomad",
+    "tag": "Sustainable Travel",
+    "image_url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBMvtPI8VBXBIXfDwcfsRdwogNSfR9jp7VaDG--2q108l4JXUlcZfsDCsIcMr5SrWHtAY-HP9VdDt2ZGUx3jP6yW-Nt68iOaHGwgGYUh61fO_AzyNcpCVD3I1zDIklQQzja2n1jBFaxD_L8F15dilQCB6LSrX50pi34ZOpAunbyyRyEJ1z6zQfCkqQAlPX9wxEuTYyNs5JrQhWLIafs3SnpLN5bvEFBer9-g7wsc6cFYl75LZ2UB7fBsO3O_a3C2TagCcMynAM2aXEL"
+  },
+  {
+    "id": 7,
+    "error": "Invalid JSON",
+    "details": "Unterminated string in JSON at position 278 (line 10 column 67)"
+  },
+  {
+    "id": 8,
+    "error": "Invalid JSON",
+    "details": "Unterminated string in JSON at position 165 (line 1 column 166)"
+  },
+  {
+    "id": 9,
+    "error": "Invalid JSON",
+    "details": "Expected ',' or '}' after property value in JSON at position 166 (line 7 column 14)"
+  }
+]

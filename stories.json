@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "A Morning in Imlil",
+    "author": "The Miller Family",
+    "date": "April 12, 2026",
+    "content": "Our children woke up to the sound of donkey bells echoing through the valley. We spent the afternoon learning how to bake bread in an outdoor clay oven with Fatima. A truly grounding experience.",
+    "avatar": "https://i.pravatar.cc/150?u=miller",
+    "region": "High Atlas"
+  },
+  {
+    "id": 2,
+    "title": "Starlit Sahara Conversations",
+    "author": "David & Sarah",
+    "date": "May 5, 2026",
+    "content": "Far from the city lights, the sky above Merzouga feels heavy with stars. We sat around the fire listening to nomad songs that have been sung for generations. We felt like we were part of something timeless.",
+    "avatar": "https://i.pravatar.cc/150?u=david",
+    "region": "Sahara Edge"
+  }
+]
